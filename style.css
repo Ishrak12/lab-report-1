@@ -1,0 +1,70 @@
+.heading {
+    background-color: rgba(207, 98, 8, 0.973);
+
+    padding: 3%;
+
+    background-image: url(background.jpg);
+    opacity: 90%;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: rgb(250, 121, 0);
+}
+
+.article {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 3%;
+}
+
+.footer_paragraph {
+    text-align: center;
+    text-size-adjust: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    background-color: black;
+    padding: 2%;
+    color: aliceblue;
+}
+
+.article_about {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 3%;
+}
+
+.article-portfolio {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 3%;
+}
+
+.article-services {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 3%;
+
+}
+
+.article-contact {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 3%;
+    text-align: center;
+}
